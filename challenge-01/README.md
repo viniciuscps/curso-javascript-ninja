@@ -55,8 +55,6 @@ function divisao(num1=4,num2=2){
 
 
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
-?
-```
 function divisao(num1=10,num2=2){
     divisao = num1/num2;
     return divisao;
